@@ -1,6 +1,6 @@
 # Accelerated Big Data Systems Group
 
-The Accelerated Big Data Systems (ABS) group is a research group formerly active at the Delft University of Technology since 1999. Although due to reorganization it is not officially an official group at the university anymore, the group is still very active today.
+The Accelerated Big Data Systems (ABS) group is a research group formerly active at the Delft University of Technology since 1999.
 
 ## Research directions
 The ABS group performs research into high-performance computing infrastructure to enable the efficient processing of big data problems. A number of research topics are carried out in the group, mainly focused on enabling next generation high performance computer hardware to perform scalable big data analytics, such as addressing the limitations in parallelism on a scalable computational infrastructure. In addition, we work on enabling efficient utilization of computer hardware and enabling easy integration of GPUs and FPGAs into big data frameworks.
