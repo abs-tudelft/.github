@@ -13,4 +13,4 @@ This GitHub organization contains various projects formerly or currently develop
 Projects are either an accelerator/acceleration implementation for some computation task on a certain platform, or a tool. This tooling can be a code-generation tool or debugging tool for designing hardware, or a runtime tool to interface with an accelerator.
 
 ## Get in touch
-Feel free to get in contact with the authors of any of the repositories by opening an issue on the repository or shooting them a message if contact details are available.
+Feel free to get in contact with the authors of any of the repositories by opening an issue on the repository or shooting them a message.
