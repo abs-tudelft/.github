@@ -12,5 +12,7 @@ This GitHub organization contains various projects formerly or currently develop
 
 Projects are either an accelerator/acceleration implementation for some computation task on a certain platform, or a tool. This tooling can be a code-generation tool or debugging tool for designing hardware, or a runtime tool to interface with an accelerator.
 
+For documentation of projects related to **Tydi** and **debugging** in Chisel ([Tydi-Chisel](https://github.com/abs-tudelft/Tydi-Chisel), [Tywaves](https://github.com/rameloni/tywaves-chisel), ChiselTrace) and Clash ([Tydi-Clash](https://github.com/The-Redstar/tydi-clash), [Shockwaves](https://github.com/The-Redstar/shockwaves)), check out [https://abs-tudelft.github.io/docs/](https://abs-tudelft.github.io/docs/).
+
 ## Get in touch
 Feel free to get in contact with the authors of any of the repositories by opening an issue on the repository or shooting them a message.
